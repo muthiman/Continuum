@@ -1,4 +1,4 @@
-# Distributed Time Consensus System
+# Distributed Consensus of Synchronised Time
 
 A decentralized system for achieving consensus on time using GPS satellites and zero-knowledge proofs, without relying on a central authority.
 
