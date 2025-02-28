@@ -1,0 +1,18 @@
+{
+  "name": "distributed-time-consensus",
+  "version": "1.0.0",
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  },
+  "description": "A decentralized system for achieving consensus on time using GPS satellites and zero-knowledge proofs, without relying on a central authority.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

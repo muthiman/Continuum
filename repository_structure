@@ -1,0 +1,13 @@
+/distributed-time-consensus/
+├── src/
+│   ├── gps_module/
+│   ├── secure_enclave/
+│   ├── validation/
+│   ├── consensus/
+│   ├── network/
+│   └── data_availability/
+├── tests/
+├── docs/
+├── README.md
+├── requirements.txt
+└── .gitignore 
